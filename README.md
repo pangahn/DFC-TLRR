@@ -1,5 +1,8 @@
 # DFC-TLRR
-[![HitCount](http://hits.dwyl.io/ploxolg/DFC-TLRR.svg)](http://hits.dwyl.io/ploxolg/DFC-TLRR)
+
+[![HitCount]
+
+(http://hits.dwyl.io/ploxolg/DFC-TLRR.svg)](http://hits.dwyl.io/ploxolg/DFC-TLRR)
 The MATLAB implementation for distributed low-rank subspace clustering (DFC-TLRR) method for tensor data, proposed in Distributed Low-rank Tensor Subspace Clustering.
 
 Accepted by Journal of South China University of Technology (Natural Science Edition) 2019.02.
