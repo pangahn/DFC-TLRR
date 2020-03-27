@@ -1,7 +1,5 @@
 # DFC-TLRR
 
-[![HitCount](http://hits.dwyl.io/ploxolg/DFC-TLRR.svg)](http://hits.dwyl.io/ploxolg/DFC-TLRR)
-
 This repository is a MATLAB implementation of distributed low-rank subspace clustering (DFC-TLRR) algorithm for tensor data, which proposed in [Distributed Low-rank Tensor Subspace Clustering](http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HNLG201908012&dbname=CJFDLAST2019&uid=WEEvREcwSlJHSldRa1FhdXNXaEhoOHRrQWZYd0MyYW0zSm5rbll5ZkdXVT0%3D%249A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!) and published by [Journal of South China University of Technology (Natural Science Edition)](http://zrb.bjb.scut.edu.cn/CN/volumn/home.shtml) in [August 2019](http://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=HNLG&Year=2019&Issue=08&Entry=&uid=WEEvREcwSlJHSldRa1FhdXNXaEhoOHRrQWZYd0MyYW0zSm5rbll5ZkdXVT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!).
 
 You should first add the [tensor toolbox](https://github.com/andrewssobral/tensor_toolbox) into you matlab running environment path.
